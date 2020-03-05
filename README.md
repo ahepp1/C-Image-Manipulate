@@ -5,9 +5,9 @@ Make with: make
 Run as: ./project [input image] [output destination] [image operation]
 
 Image operations include: 
-Invert Colors
-Greyscale
-Swap Colors (R->G->B->R)
-Bright
-Crop
-Blur
+* Invert Colors
+* Greyscale
+* Swap Colors (R->G->B->R)
+* Bright
+* Crop
+* Blur
